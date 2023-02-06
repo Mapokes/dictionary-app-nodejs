@@ -57,7 +57,7 @@ Users are able to:
 - [nanoid](https://www.npmjs.com/package/nanoid) for random IDs
 - [FontAwsome](https://fontawesome.com/icons) for icons
 - [ReactRouter](https://www.npmjs.com/package/react-router-dom) for pages
-- [Node.js Express](https://expressjs.com/) for backend server, fetching data and provideing API keys
+- [Node.js Express](https://expressjs.com/) for backend server, fetching data and providing API keys
 - [dotenv](https://www.npmjs.com/package/dotenv) for use of .env file inside backend server
 
 ## Author
