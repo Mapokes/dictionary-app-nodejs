@@ -43,7 +43,7 @@ Users are able to:
 
 ### Links
 
-- Live Site URL: [vercel](https://mapokes.github.io/dictionary-app/)
+- Live Site URL: [vercel](https://dictionary-app-nodejs.vercel.app/)
 
 ## My process
 
